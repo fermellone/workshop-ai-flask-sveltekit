@@ -1,3 +1,6 @@
+# Description
+I‘ve designed this workshop as part of a programming bootcamp where I taught Python.
+
 # Steps
 
 1. clone the repo
